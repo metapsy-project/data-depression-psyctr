@@ -1,3 +1,1 @@
-Comparisons that can be filtered through the "comparison" variable:
 psychotherapy vs control
-psychotherapy vs psychotherapy
