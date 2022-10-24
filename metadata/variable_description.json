@@ -59,7 +59,6 @@
 "no.arms": "Number of arms with the same measurement instrument within a study",
 "is.multiarm": "0= no, 1= yes",
 "primary": "One primary outcome per study, based on a predefined hierarchy: HAM-D, BDI (I or II), another clinician-rated instrument, another self-report instrument, with priority for: PHQ-9, CES-D, HADS, GDS, EPDS, MMPI",
-"primary_calc": "One primary calculation type per study based on the following hierarchy: 1) continuous, 2) dichotomous, 3) change from baseline, 4) other reported statistics",
 ".id": "metapsyTools generated variable: Unique identifier for a trial arm comparison/row.",
 ".g": "metapsyTools generated variable: Calculated effect size (Hedges' g).",
 ".g_se": "metapsyTools generated variable: Standard error of Hedges' g.",
